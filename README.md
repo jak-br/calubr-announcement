@@ -1,1 +1,1 @@
-# calubr-announcement
+# calubr-notice
