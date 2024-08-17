@@ -19,18 +19,18 @@
         ]
     },
     "BB101": {
-        "title": "Clinical Chemistry",
+        "title": "Blood Banking",
         "lectures": [
             {
                 "lectureId": "L1",
-                "instructor": "Dr. Juan Dela Cruz",
+                "instructor": "Dr. Lorrem I. Pssum",
                 "duration": "2 hours",
                 "post_date": "2024-09-01",
                 "urls": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
             },
             {
                 "lectureId": "L2",
-                "instructor": "Dr. Jack B. Daniels",
+                "instructor": "Dr. Blue B. Link",
                 "duration": "2 hours",
                 "post_date": "2024-09-01",
                 "urls": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
