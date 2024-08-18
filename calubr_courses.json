@@ -7,14 +7,16 @@
                 "instructor": "Dr. Juan Dela Cruz",
                 "duration": "2 hours",
                 "post_date": "2024-09-01",
-                "urls": "https://drive.google.com/file/d/104esQW7u_o088M9p2C0yyIjvYlIlI7FE/view?usp=drive_link"
+                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
+                "file_path": "CC101-081824-1.mp4"
             },
             {
                 "lectureId": "L2",
                 "instructor": "Dr. Jack B. Daniels",
                 "duration": "2 hours",
                 "post_date": "2024-09-01",
-                "urls": "https://drive.google.com/file/d/1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV/view?usp=drive_link"
+                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
+                "file_path": "CC101-081824-2.mp4"
             }
         ]
     },
@@ -26,14 +28,16 @@
                 "instructor": "Dr. Lorrem I. Pssum",
                 "duration": "2 hours",
                 "post_date": "2024-09-01",
-                "urls": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
+                "file_path": "CC101-081824-3.mp4"
             },
             {
                 "lectureId": "L2",
                 "instructor": "Dr. Blue B. Link",
                 "duration": "2 hours",
                 "post_date": "2024-09-01",
-                "urls": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
+                "file_path": "CC101-081824-1.mp4"
             }
         ]
     },
@@ -45,42 +49,48 @@
                 "instructor": "Dr. Lorrem I. Pssum",
                 "duration": "2 hours",
                 "post_date": "2024-09-01",
-                "urls": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
+                "file_path": "CC101-081824-1.mp4"
             },
             {
                 "lectureId": "L1",
                 "instructor": "Dr. Lorrem I. Pssum",
                 "duration": "2 hours",
                 "post_date": "2024-09-01",
-                "urls": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
+                "file_path": "CC101-081824-1.mp4"
             },
             {
                 "lectureId": "L1",
                 "instructor": "Dr. Lorrem I. Pssum",
                 "duration": "2 hours",
                 "post_date": "2024-09-01",
-                "urls": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
+                "file_path": "CC101-081824-1.mp4"
             },
             {
                 "lectureId": "L1",
                 "instructor": "Dr. Lorrem I. Pssum",
                 "duration": "2 hours",
                 "post_date": "2024-09-01",
-                "urls": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
+                "file_path": "CC101-081824-1.mp4"
             },
             {
                 "lectureId": "L1",
                 "instructor": "Dr. Lorrem I. Pssum",
                 "duration": "2 hours",
                 "post_date": "2024-09-01",
-                "urls": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
+                "file_path": "CC101-081824-1.mp4"
             },
             {
                 "lectureId": "L2",
                 "instructor": "Dr. Blue B. Link",
                 "duration": "2 hours",
                 "post_date": "2024-09-01",
-                "urls": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
+                "file_path": "CC101-081824-1.mp4"
             }
         ]
     }
