@@ -1,0 +1,44 @@
+Last Updated: [Date]
+
+Welcome to CALUBR, a learning application designed to help students and professionals prepare for their upcoming board exams. By using our application, you agree to comply with and be bound by the following terms and conditions. Please read these terms carefully.
+
+1. Acceptance of Terms
+By accessing or using CALUBR, you agree to these Terms and Conditions. If you do not agree with any part of these terms, you must not use the application.
+
+2. Application Purpose
+CALUBR is intended to provide educational content and resources for students and professionals preparing for board exams. The content within the application is for personal and educational use only.
+
+3. User Responsibilities
+As a user of CALUBR, you agree to:
+
+Use the application only for lawful purposes.
+Refrain from sharing your account with others.
+Avoid sharing, distributing, or reproducing any content, videos, or files from the application.
+Not create multiple accounts or engage in unauthorized logins.
+Not display or distribute any content from CALUBR to others.
+4. Account Creation
+Users are required to create an account to access the application. If a user is not capable of creating an account, it may be provided for them. You are responsible for maintaining the confidentiality of your login information and are fully responsible for all activities that occur under your account.
+
+5. User Data
+We collect the following personal information for login, security, and authentication purposes: name, email, phone number, location, address, and session information. By using CALUBR, you consent to the collection and use of this information in accordance with our Privacy Policy.
+
+6. Intellectual Property
+All content within CALUBR, including but not limited to code, logos, trademarks, files, and videos, is the property of CALUBR or its licensors and is protected by intellectual property laws. Users do not acquire any ownership rights by using the application.
+
+7. Payment
+As of now, CALUBR does not include any payment features. However, we reserve the right to introduce paid services or features in the future, in which case these terms will be updated accordingly.
+
+8. Governing Law
+These Terms and Conditions are governed by and construed in accordance with the laws of the Philippines. Any disputes arising from or in connection with these terms will be subject to the jurisdiction of the courts in the Philippines.
+
+9. Dispute Resolution
+In the event of any dispute or claim arising out of or relating to these Terms and Conditions, the parties will first attempt to resolve the dispute through mediation. If mediation fails, the dispute will be resolved through the courts of the Philippines.
+
+10. Modification of Terms
+We reserve the right to modify these Terms and Conditions at any time. It is your responsibility to check these terms periodically for changes. Continued use of CALUBR following any changes to these terms constitutes acceptance of those changes.
+
+11. Termination
+We reserve the right to terminate your account and access to CALUBR at our discretion, without prior notice, if we believe you have violated these terms.
+
+12. Contact Information
+If you have any questions about these Terms and Conditions, please contact us at [Your Contact Information].
