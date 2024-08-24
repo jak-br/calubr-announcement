@@ -1,6 +1,6 @@
-Last Updated: [Date]
+Last Updated: 24 August 2024
 
-Welcome to CALUBR, a learning application designed to help students and professionals prepare for their upcoming board exams. By using our application, you agree to comply with and be bound by the following terms and conditions. Please read these terms carefully.
+Welcome to CALUBR LMS, a learning application designed to help students and professionals prepare for their upcoming board exams. By using our application, you agree to comply with and be bound by the following terms and conditions. Please read these terms carefully.
 
 1. Acceptance of Terms
 By accessing or using CALUBR, you agree to these Terms and Conditions. If you do not agree with any part of these terms, you must not use the application.
@@ -16,6 +16,7 @@ Refrain from sharing your account with others.
 Avoid sharing, distributing, or reproducing any content, videos, or files from the application.
 Not create multiple accounts or engage in unauthorized logins.
 Not display or distribute any content from CALUBR to others.
+
 4. Account Creation
 Users are required to create an account to access the application. If a user is not capable of creating an account, it may be provided for them. You are responsible for maintaining the confidentiality of your login information and are fully responsible for all activities that occur under your account.
 
@@ -41,4 +42,4 @@ We reserve the right to modify these Terms and Conditions at any time. It is you
 We reserve the right to terminate your account and access to CALUBR at our discretion, without prior notice, if we believe you have violated these terms.
 
 12. Contact Information
-If you have any questions about these Terms and Conditions, please contact us at [Your Contact Information].
+If you have any questions about these Terms and Conditions, please contact us at calunsag.br@gmail.com or you can directly message us through telegram CALUBR.
