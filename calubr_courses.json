@@ -3,20 +3,41 @@
         "title": "Clinical Chemistry",
         "lectures": [
             {
-                "lectureId": "L1",
-                "instructor": "Dr. Juan Dela Cruz",
-                "duration": "2 hours",
-                "post_date": "2024-09-01",
-                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
-                "filePath": "CC101-081824-1.mp4"
+                "lectureId": "Aug 8 - CC -pt1",
+                "instructor": "Sir Jed Calunsag",
+                "duration": "1.02 GB",
+                "post_date": "08-28-2024",
+                "urls": "1JUVeu22u6Lt6w3zADkP4Wjifey-8LTNH",
+                "filePath": "Aug_8-CC-pt1.mp4"
             },
             {
-                "lectureId": "L2",
-                "instructor": "Dr. Bootat Mekunation",
-                "duration": "1 hours",
-                "post_date": "2024-09-01",
-                "urls": "1K2FRcgI8sHV2XVgp-S0GK8Z6kqAyhlGc",
-                "filePath": "BillyRey.mp4"
+                "lectureId": "Aug 8 - CC -pt2",
+                "instructor": "Sir Jed Calunsag",
+                "duration": "597.3 MB",
+                "post_date": "08-28-2024",
+                "urls": "1W9RHEk58hZrtJYueH1DbApIuzBR0ndqu",
+                "filePath": "Aug_8-CC-pt2.mp4"
+            }
+        ]
+    },
+      "CM101": {
+        "title": "Clinical Mircroscopy",
+        "lectures": [
+            {
+                "lectureId": "SEP 12 - CM -pt1",
+                "instructor": "Dr. Levy Leigh Valdez",
+                "duration": "1.18 GB",
+                "post_date": "09-12-2024",
+                "urls": "162zY2L4YgSJQ5tHV5iMPxxyKJw9fEHmK",
+                "filePath": "SEP_12-CM-pt1.mp4"
+            },
+            {
+                "lectureId": "SEP 12 - CM -pt2",
+                "instructor": "Dr. Levy Leigh Valdez",
+                "duration": "646.6 MB",
+                "post_date": "09-12-2024",
+                "urls": "1tAZH5DvCWn48bdzArMb4Vdk3NV5qAbW2",
+                "filePath": "SEP_12-CM-pt2.mp4"
             }
         ]
     },
@@ -24,73 +45,20 @@
         "title": "Blood Banking",
         "lectures": [
             {
-                "lectureId": "L1",
-                "instructor": "Dr. Lorrem I. Pssum",
-                "duration": "2 hours",
-                "post_date": "2024-09-01",
-                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
-                "filePath": "CC101-081824-3.mp4"
+                "lectureId": "SEP 19 - BB -pt1",
+                "instructor": "Sir Juan Dela Cruz",
+                "duration": "1.03 GB",
+                "post_date": "09-19-2024",
+                "urls": "1X7FVB-KExYwH8yHChwSxg3PDVEsjGOO0",
+                "filePath": "SEP_19-BB-pt1.mp4"
             },
             {
-                "lectureId": "L2",
-                "instructor": "Dr. Blue B. Link",
-                "duration": "2 hours",
-                "post_date": "2024-09-01",
-                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
-                "filePath": "CC101-081824-1.mp4"
-            }
-        ]
-    },
-     "ML101": {
-        "title": "Molecular Biology",
-        "lectures": [
-            {
-                "lectureId": "L1",
-                "instructor": "Dr. Lorrem I. Pssum",
-                "duration": "2 hours",
-                "post_date": "2024-09-01",
-                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
-                "filePath": "CC101-081824-1.mp4"
-            },
-            {
-                "lectureId": "L1",
-                "instructor": "Dr. Lorrem I. Pssum",
-                "duration": "2 hours",
-                "post_date": "2024-09-01",
-                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
-                "filePath": "CC101-081824-1.mp4"
-            },
-            {
-                "lectureId": "L1",
-                "instructor": "Dr. Lorrem I. Pssum",
-                "duration": "2 hours",
-                "post_date": "2024-09-01",
-                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
-                "filePath": "CC101-081824-1.mp4"
-            },
-            {
-                "lectureId": "L1",
-                "instructor": "Dr. Lorrem I. Pssum",
-                "duration": "2 hours",
-                "post_date": "2024-09-01",
-                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
-                "filePath": "CC101-081824-1.mp4"
-            },
-            {
-                "lectureId": "L1",
-                "instructor": "Dr. Lorrem I. Pssum",
-                "duration": "2 hours",
-                "post_date": "2024-09-01",
-                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
-                "filePath": "CC101-081824-1.mp4"
-            },
-            {
-                "lectureId": "L2",
-                "instructor": "Dr. Blue B. Link",
-                "duration": "2 hours",
-                "post_date": "2024-09-01",
-                "urls": "1-4pGs61iXeZ-X2p_kDP6ZliLTn1MCNoV",
-                "filePath": "CC101-081824-1.mp4"
+                "lectureId": "SEP 19 - BB -pt2",
+                "instructor": "Sir Juan Dela Cruz",
+                "duration": "281.6 MB",
+                "post_date": "09-19-2024",
+                "urls": "1SgbotSbqTCcMKeiI9yKOHO2rLuSQ32og",
+                "filePath": "SEP_19-BB-pt2.mp4"
             }
         ]
     }
