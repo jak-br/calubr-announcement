@@ -7,18 +7,18 @@
                 "instructor": "Sir Jed Calunsag",
                 "duration": "6.32 hrs",
                 "post_date": "08-28-2024",
-                "urls": "SuJaYL_ze3c",
+                "urls": "SuJaYL_ze3c"
             },
             {
                 "title": "Clinical Chemistry",
                 "instructor": "Sir Jed Calunsag",
                 "duration": "4.2 hrs",
                 "post_date": "08-28-2024",
-                "urls": "RDMMIo7EcAep2m0",
+                "urls": "RDMMIo7EcAep2m0"
             }
         ]
     },
-      "CM101": {
+    "CM101": {
         "title": "Clinical Mircroscopy",
         "lectures": [
             {
@@ -26,14 +26,14 @@
                 "instructor": "Sir Jed Calunsag",
                 "duration": "6.32 hrs",
                 "post_date": "08-28-2024",
-                "urls": "SuJaYL_ze3c",
+                "urls": "SuJaYL_ze3c"
             },
             {
-               "title": "Clinical Mircroscopy",
+                "title": "Clinical Mircroscopy",
                 "instructor": "Sir Jed Calunsag",
                 "duration": "6.32 hrs",
                 "post_date": "08-28-2024",
-                "urls": "RDMMIo7EcAep2m0",
+                "urls": "RDMMIo7EcAep2m0"
             }
         ]
     },
@@ -45,21 +45,21 @@
                 "instructor": "Sir Jed Calunsag",
                 "duration": "6.32 hrs",
                 "post_date": "08-28-2024",
-                "urls": "SuJaYL_ze3c",
-            },
-            {
-                 "title": "Blood Banking",
-                "instructor": "Sir Jed Calunsag",
-                "duration": "6.32 hrs",
-                "post_date": "08-28-2024",
-                "urls": "SuJaYL_ze3c",
+                "urls": "SuJaYL_ze3c"
             },
             {
                 "title": "Blood Banking",
                 "instructor": "Sir Jed Calunsag",
                 "duration": "6.32 hrs",
                 "post_date": "08-28-2024",
-                "urls": "SuJaYL_ze3c",
+                "urls": "SuJaYL_ze3c"
+            },
+            {
+                "title": "Blood Banking",
+                "instructor": "Sir Jed Calunsag",
+                "duration": "6.32 hrs",
+                "post_date": "08-28-2024",
+                "urls": "SuJaYL_ze3c"
             }
         ]
     }
