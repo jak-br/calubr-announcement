@@ -65,7 +65,7 @@
             }
         ]
     },
-      "MC101": {
+    "MC101": {
         "title": "Microbiology",
         "lectures": [
             {
@@ -97,5 +97,5 @@
                 "urls": "T0C25aXh8RI"
             }
         ]
-    },
+    }
 }
