@@ -3,37 +3,53 @@
         "title": "Clinical Chemistry",
         "lectures": [
             {
-                "title": "Clinical Chemistry",
-                "instructor": "Sir Jed Calunsag",
-                "duration": "6.32 hrs",
-                "post_date": "08-28-2024",
-                "urls": "SuJaYL_ze3c"
+                "title": "Clinical Chemistry (Day 2 Part 2)",
+                "instructor": "Sir Jedidiah Calunsag",
+                "duration": "2:10:13",
+                "post_date": "August 28, 2024",
+                "urls": "ZSTtbLKTh-g"
             },
             {
-                "title": "Clinical Chemistry",
-                "instructor": "Sir Jed Calunsag",
-                "duration": "4.2 hrs",
-                "post_date": "08-28-2024",
-                "urls": "LHCob76kigA"
-            }
-        ]
-    },
-    "CM101": {
-        "title": "Clinical Mircroscopy",
-        "lectures": [
-            {
-                "title": "Clinical Mircroscopy",
-                "instructor": "Sir Jed Calunsag",
-                "duration": "6.32 hrs",
-                "post_date": "08-28-2024",
-                "urls": "SuJaYL_ze3c"
+                "title": "Clinical Chemistry (Day 2 Part 1)",
+                "instructor": "Sir Jedidiah Calunsag",
+                "duration": "3:47:30",
+                "post_date": "August 30, 2024",
+                "urls": "Ww-lJLrHIdU"
             },
             {
-                "title": "Clinical Mircroscopy",
-                "instructor": "Sir Jed Calunsag",
-                "duration": "6.32 hrs",
-                "post_date": "08-28-2024",
-                "urls": "LHCob76kigA"
+                "title": "Clinical Chemistry (Day 3 Part 1)",
+                "instructor": "Sir Jedidiah Calunsag",
+                "duration": "3:07:22",
+                "post_date": "August 30, 2024",
+                "urls": "XNeSSMZH85E"
+            },
+            {
+                "title": "Clinical Chemistry (Day 3 Part 2)",
+                "instructor": "Sir Jedidiah Calunsag",
+                "duration": "2:22:49",
+                "post_date": "August 30, 2024",
+                "urls": "RlyILRoOakc"
+            },
+            {
+                "title": "Clinical Chemistry (Day 4 Part 1)",
+                "instructor": "Sir Jedidiah Calunsag",
+                "duration": "3:32:57",
+                "post_date": "August 30, 2024",
+                "urls": "tM3tF2memEw"
+            },
+            {
+                "title": "Clinical Chemistry (Day 4 Part 2)",
+                "instructor": "Sir Jedidiah Calunsag",
+                "duration": "2:14:34",
+                "post_date": "August 30, 2024",
+                "urls": "nDTxuuofj_w"
+            },
+            {
+                "title": "Clinical Chemistry (Day 6)",
+                "instructor": "Sir Jedidiah Calunsag",
+                "duration": "3:54:47",
+                "post_date": "September 4, 2024",
+                "urls": "SuJaYL_ze3c"
             }
         ]
     },
@@ -41,26 +57,45 @@
         "title": "Blood Banking",
         "lectures": [
             {
-                "title": "Blood Banking",
-                "instructor": "Sir Jed Calunsag",
-                "duration": "6.32 hrs",
-                "post_date": "08-28-2024",
-                "urls": "LHCob76kigA"
-            },
-            {
-                "title": "Blood Banking",
-                "instructor": "Sir Jed Calunsag",
-                "duration": "6.32 hrs",
-                "post_date": "08-28-2024",
-                "urls": "SuJaYL_ze3c"
-            },
-            {
-                "title": "Blood Banking",
-                "instructor": "Sir Jed Calunsag",
-                "duration": "6.32 hrs",
-                "post_date": "08-28-2024",
-                "urls": "SuJaYL_ze3c"
+                "title": "Blood Banking (Day 3)",
+                "instructor": "Marc Jay Gagarin, RMT, MD",
+                "duration": "4:33:33",
+                "post_date": "September 21, 2024",
+                "urls": "Q6p68wbdGW8"
             }
         ]
-    }
+    },
+      "MC101": {
+        "title": "Microbiology",
+        "lectures": [
+            {
+                "title": "Microbio (Day 3 Part 1)",
+                "instructor": "Sir Miguel Carlos Arada",
+                "duration": "4:00:45",
+                "post_date": "September 29, 2024",
+                "urls": "lM8DMO8Bq-I"
+            },
+            {
+                "title": "Microbio (Day 3 Part 2)",
+                "instructor": "Sir Miguel Carlos Arada",
+                "duration": "2:05:27",
+                "post_date": "September 29, 2024",
+                "urls": "uhGgtBqrgKY"
+            },
+            {
+                "title": "Microbio (Day 4)",
+                "instructor": "Sir Miguel Carlos Arada",
+                "duration": "7:16:19",
+                "post_date": "September 29, 2024",
+                "urls": "Vw_owyGXT94"
+            },
+            {
+                "title": "Microbio (Day 5)",
+                "instructor": "Sir Miguel Carlos Arada",
+                "duration": "6:08:11",
+                "post_date": "September 29, 2024",
+                "urls": "T0C25aXh8RI"
+            }
+        ]
+    },
 }
