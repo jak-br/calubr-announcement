@@ -7,7 +7,7 @@
                 "instructor": "Sir Jed Calunsag",
                 "duration": "1.02 GB",
                 "post_date": "08-28-2024",
-                "urls": "1JUVeu22u6Lt6w3zADkP4Wjifey-8LTNH",
+                "urls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
                 "filePath": "Aug_8-CC-pt1.mp4"
             },
             {
@@ -15,7 +15,7 @@
                 "instructor": "Sir Jed Calunsag",
                 "duration": "597.3 MB",
                 "post_date": "08-28-2024",
-                "urls": "1W9RHEk58hZrtJYueH1DbApIuzBR0ndqu",
+                "urls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
                 "filePath": "Aug_8-CC-pt2.mp4"
             }
         ]
@@ -28,7 +28,7 @@
                 "instructor": "Sir Jed Calunsag",
                 "duration": "1.18 GB",
                 "post_date": "09-12-2024",
-                "urls": "162zY2L4YgSJQ5tHV5iMPxxyKJw9fEHmK",
+                "urls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
                 "filePath": "SEP_12-CM-pt1.mp4"
             },
             {
@@ -36,7 +36,7 @@
                 "instructor": "Sir Jed Calunsag",
                 "duration": "646.6 MB",
                 "post_date": "09-12-2024",
-                "urls": "1tAZH5DvCWn48bdzArMb4Vdk3NV5qAbW2",
+                "urls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
                 "filePath": "SEP_12-CM-pt2.mp4"
             }
         ]
@@ -49,7 +49,7 @@
                 "instructor": "Marc Jay Gagarin",
                 "duration": "1.03 GB",
                 "post_date": "09-19-2024",
-                "urls": "1X7FVB-KExYwH8yHChwSxg3PDVEsjGOO0",
+                "urls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
                 "filePath": "SEP_19-BB-pt1.mp4"
             },
             {
@@ -57,7 +57,7 @@
                 "instructor": "Marc Jay Gagarin",
                 "duration": "281.6 MB",
                 "post_date": "09-19-2024",
-                "urls": "1SgbotSbqTCcMKeiI9yKOHO2rLuSQ32og",
+                "urls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
                 "filePath": "SEP_19-BB-pt2.mp4"
             },
             {
@@ -65,7 +65,7 @@
                 "instructor": "Encoder",
                 "duration": "- - -",
                 "post_date": "09-19-2024",
-                "urls": "1uhCeRgH7UGWy-RjoAyrATKPELj46MLLQ",
+                "urls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
                 "filePath": "fortestingonly.mp4"
             }
         ]
