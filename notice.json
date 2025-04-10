@@ -4,7 +4,7 @@
     "date": "2024-10-02",
     "description": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.",
     "postBy": "Gatekeeper",
-    "imageUrl": "https://github.com/yavuzceliker/sample-images/blob/main/images/image-109.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-109.jpg",
     "isImportant": true
   },
   {
@@ -28,7 +28,7 @@
     "date": "2024-08-16",
     "description": "We have released a new feature today!",
     "postBy": "Dr. Jaun Dela Cruz",
-    "imageUrl": "https://github.com/yavuzceliker/sample-images/blob/main/images/image-117.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-117.jpg",
     "isImportant": false
   },
   {
@@ -36,7 +36,7 @@
     "date": "2024-08-20",
     "description": "The system will be down for maintenance on August 20th.",
     "postBy": "Admin",
-    "imageUrl": "https://github.com/yavuzceliker/sample-images/blob/main/images/image-12.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-12.jpg",
     "isImportant": true
   }
 ]
