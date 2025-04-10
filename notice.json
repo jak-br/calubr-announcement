@@ -5,7 +5,7 @@
     "description": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.",
     "postBy": "Gatekeeper",
     "imageUrl": "https://github.com/yavuzceliker/sample-images/blob/main/images/image-109.jpg?raw=true",
-    "isImportat": true
+    "isImportant": true
   },
   {
     "title": "New Feature Release",
@@ -13,7 +13,7 @@
     "description": "We have released a new feature today! We have released a new feature today! We have released a new feature today! We have released a new feature today!",
     "postBy": "Accounting Department",
     "imageUrl": "",
-    "isImportat": false
+    "isImportant": false
   },
   {
     "title": "New Feature Release",
@@ -21,7 +21,7 @@
     "description": "We have released a new feature today! We have released a new feature today! We have released a new feature today! \n\nWe have released a new feature today! We have released a new feature today! We have released a new feature today! \n\nWe have released a new feature today!",
     "postBy": "Administrator",
     "imageUrl": "",
-    "isImportat": true
+    "isImportant": true
   },
   {
     "title": "New Feature Release",
@@ -29,7 +29,7 @@
     "description": "We have released a new feature today!",
     "postBy": "Dr. Jaun Dela Cruz",
     "imageUrl": "https://github.com/yavuzceliker/sample-images/blob/main/images/image-117.jpg?raw=true",
-    "isImportat": false
+    "isImportant": false
   },
   {
     "title": "Maintenance Downtime",
@@ -37,6 +37,6 @@
     "description": "The system will be down for maintenance on August 20th.",
     "postBy": "Admin",
     "imageUrl": "https://github.com/yavuzceliker/sample-images/blob/main/images/image-12.jpg?raw=true",
-    "isImportat": true
+    "isImportant": true
   }
 ]
